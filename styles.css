@@ -1,0 +1,13 @@
+#pic{
+    width: 40px;
+    top: 0;
+    position: absolute;
+}
+
+#ground{
+    position: absolute;
+    bottom: 0px;
+    height: 10px;
+    width: 100%;
+    border-style: solid;
+}
